@@ -138,23 +138,26 @@ const Index = () => {
           <Card className="border-none shadow-lg">
             <CardContent className="p-8">
               <p className="text-lg mb-4">
-                Более 8 лет помогаю ученикам разбираться в математике — от школьной алгебры до высшей математики в вузах.
+                Выпускник СУНЦ МГУ и МФТИ — лучшей школы и вуза России по физико-математическому направлению.
               </p>
               <p className="text-lg mb-4">
-                Мой подход: объясняю сложное простым языком, нахожу индивидуальный путь к каждому ученику. Верю, что математика доступна всем — нужно просто найти правильный подход.
+                ЕГЭ: русский язык — 96 баллов, математика — 100 баллов, физика — 100 баллов. Призер и победитель перечневых олимпиад по математике и физике.
+              </p>
+              <p className="text-lg mb-4">
+                Более 5 лет опыта подготовки к ОГЭ и ЕГЭ. Мой подход: объясняю сложное простым языком, нахожу индивидуальный путь к каждому ученику.
               </p>
               <div className="grid md:grid-cols-3 gap-6 mt-8">
                 <div className="text-center">
-                  <div className="text-4xl font-bold text-primary mb-2">8+</div>
+                  <div className="text-4xl font-bold text-primary mb-2">5+</div>
                   <div className="text-muted-foreground">лет опыта</div>
                 </div>
                 <div className="text-center">
-                  <div className="text-4xl font-bold text-primary mb-2">200+</div>
-                  <div className="text-muted-foreground">учеников</div>
+                  <div className="text-4xl font-bold text-primary mb-2">100</div>
+                  <div className="text-muted-foreground">баллов ЕГЭ</div>
                 </div>
                 <div className="text-center">
-                  <div className="text-4xl font-bold text-primary mb-2">95%</div>
-                  <div className="text-muted-foreground">сдали экзамены</div>
+                  <div className="text-4xl font-bold text-primary mb-2">МФТИ</div>
+                  <div className="text-muted-foreground">выпускник</div>
                 </div>
               </div>
             </CardContent>
